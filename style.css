@@ -203,7 +203,9 @@ input {
 .info p {
   font-size: 21px;
 }
-
+.info h1{
+font-size:40px;
+}
 .courses-categories {
   margin-left: 6.5%;
 }
